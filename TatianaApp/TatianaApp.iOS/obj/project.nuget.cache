@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yi1x6TnZw/6wzMfxhEEaEGZV2aZDecn0bnOpA43fxYQZsgoeqYUEFVD2FEK2M2TiNFHzNJpF9dgnXWiepBhiPg==",
+  "success": true,
+  "projectFilePath": "C:\\Proyects\\Personal Data\\Proyecto Tatiana\\TatianaApp\\TatianaApp\\TatianaApp.iOS\\TatianaApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\torresforero.10\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\torresforero.10\\.nuget\\packages\\skiasharp.nativeassets.ios\\2.88.3\\skiasharp.nativeassets.ios.2.88.3.nupkg.sha512",
+    "C:\\Users\\torresforero.10\\.nuget\\packages\\skiasharp.views\\2.88.3\\skiasharp.views.2.88.3.nupkg.sha512",
+    "C:\\Users\\torresforero.10\\.nuget\\packages\\skiasharp.views.forms\\2.88.3\\skiasharp.views.forms.2.88.3.nupkg.sha512",
+    "C:\\Users\\torresforero.10\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\torresforero.10\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\torresforero.10\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
